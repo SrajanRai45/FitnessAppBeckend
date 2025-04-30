@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ttkbootstrap
+tkcalendar
+google-generativeai
+python-dotenv
+
